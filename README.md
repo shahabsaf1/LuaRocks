@@ -1,4 +1,4 @@
-# LuaRocks
+**LuaRocks is the package manager for Lua modules.**
 
 * [30log](#30log)
 * [abelhas](#abelhas)
@@ -32,152 +32,153 @@
 #30log
 `sudo luarocks install 30log`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, <5.3`
 
 #abelhas
 `sudo luarocks install abelhas`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #ActiveLua-LearningTool
-`sudo luarocks install activelua-learningtool'
+`sudo luarocks install activelua-learningtool`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #serpent
 `sudo luarocks install serpent`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, < 5.4`
 
 #feedparser
 `sudo luarocks install feedparser`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, < 5.4`
 
 #moonscript
 `sudo luarocks install moonscript`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #oauth
 `sudo luarocks install oauth`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #lua-cjson
 `sudo luarocks install lua-cjson`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #ansicolors
 `sudo luarocks install ansicolors`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #LuaSec
 `sudo luarocks install luasec`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #LuaSocket
 `sudo luarocks install luasocket`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, < 5.2`
 
 #LuaFileSystem
 `sudo luarocks install luafilesystem`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #busted
 `sudo luarocks install busted`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #LPeg
 `sudo luarocks install lpeg`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #lua-resty-string
 `sudo luarocks install lua-resty-string`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #LuaCrypto
 `sudo luarocks install luacrypto`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #lua-MessagePack
 `sudo luarocks install lua-messagepack`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #penlight
 `sudo luarocks install penlight`
 
-*Dependencies* 
+*Dependencies*
 `LuaFileSystem`
 
 #LuaExpat
 `sudo luarocks install luaexpat`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #dkjson
 `sudo luarocks install dkjson`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, < 5.4`
 
 #lub
 `sudo luarocks install lub`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, < 5.4`
 
 #xml
 `sudo luarocks install xml`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1, < 5.4`
 
 #say
 `sudo luarocks install say`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #luassert
 `sudo luarocks install luassert`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.1`
 
 #lbase64
 `sudo luarocks install lbase64`
 
-*Dependencies* 
+*Dependencies*
 `lua >= 5.2, < 5.4`
 
 
 
+--By Amir
