@@ -1,4 +1,4 @@
-**LuaRocks is the package manager for Lua modules.**
+# LuaRocks
 
 * [30log](#30log)
 * [abelhas](#abelhas)
@@ -181,4 +181,4 @@
 
 
 
---By Amir
+_Amir Paydaar_
